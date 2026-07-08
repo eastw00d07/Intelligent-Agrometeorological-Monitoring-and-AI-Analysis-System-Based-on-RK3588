@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.so
+.env
+prediction_output.json
+*.log
+weather_predict.log
+trained_models/*.json
+trained_models/*.bin
+trained_models/*.pkl
+.DS_Store
+*.swp
+*.swo

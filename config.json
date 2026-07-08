@@ -1,0 +1,16 @@
+{
+    "serial_port": "/dev/ttyUSB0",
+    "serial_baudrate": 115200,
+    "qweather_api_key": "",
+    "qweather_location": "210100",
+    "filter_window_size": 10,
+    "filter_z_threshold": 2.5,
+    "sensor_weight": 0.6,
+    "api_weight": 0.4,
+    "rkllm_model_path": "",
+    "rkllm_lib_path": "",
+    "max_new_tokens": 2048,
+    "max_context": 4096,
+    "predict_interval": 300,
+    "output_file": "prediction_output.json"
+}
