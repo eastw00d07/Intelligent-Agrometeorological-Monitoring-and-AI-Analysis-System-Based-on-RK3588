@@ -285,8 +285,7 @@ class DataFusion:
             temperature=filtered.temperature,
             humidity=filtered.humidity,
             pressure=filtered.pressure,
-            wind_speed=0.0,
-            wind_direction=0.0,
+
             rainfall=filtered.rainfall,
             light_intensity=filtered.light_intensity,
             uv_index=filtered.uv_index,
